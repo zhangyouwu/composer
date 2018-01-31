@@ -1,0 +1,14 @@
+{
+    "name": "zhangyouwu/composer",
+    "description": "aaa",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "Administrator",
+            "email": "602359802@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
